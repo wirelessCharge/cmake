@@ -13,3 +13,5 @@ find_library(
 target_link_libraries(${PROJECT_NAME} ${LIBSODIUM})
 </code>
 </pre>
+
+## 공유라이브러리 포함하여 코드 빌드하기
